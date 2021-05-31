@@ -34,7 +34,7 @@ print("=================")
 # docker build -t image4 .
 
 5. Run the Docker image and get Rotten Tomatoes rating
-# docker run -it image4 "the godfather"
+**# docker run -it image4 "the godfather"
 # docker run -it image4 interstellar
 # docker run -it image4 tenet
-# docker run -it image4 13
+# docker run -it image4 13**
