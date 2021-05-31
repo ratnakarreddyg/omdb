@@ -1,8 +1,9 @@
 # How to use the script
 
 1. Create a folder
-mkdir docker
-cd docker
+`mkdir docker`
+
+`cd docker`
 
 2. Create Dockerfile
 # vi Dockerfile
