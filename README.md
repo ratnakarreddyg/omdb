@@ -18,7 +18,7 @@
 
 3. Create movie.py
 # vi movie.py
-#!/usr/bin/python3
+`#!/usr/bin/python3
 import sys
 import requests
 
